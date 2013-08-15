@@ -1,0 +1,8 @@
+Package: sleep.cycle.tools
+Title: Tools for determining and analyzing nrem and rem sleep cycles
+Description: 
+Version: 0.0.0.pre
+Author: Piotr Mankowski <pmankowski@partners.org>
+Maintainer: Piotr Mankowski <pmankowski@partners.org>
+License: MIT
+Depends: RJSONIO
